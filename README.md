@@ -14,3 +14,7 @@ This project was finished by Eddy, Pak, Paper, Matt and Tom as a whole in CSCI31
 Execution:
 cd Chitchat and cd server with two terminals respectively
 run npm start in both terminal to start both front end and backend
+
+Update on 5 Sep 2022:
+Backend Server in MongoDB has been terminated due to lack of maintainence
+Feel free to contact me for more details on the software
