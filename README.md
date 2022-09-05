@@ -10,3 +10,7 @@ HTML, CSS, Javascript
 
 Credit:
 This project was finished by Eddy, Pak, Paper, Matt and Tom as a whole in CSCI3100 Course
+
+Execution:
+cd Chitchat and cd server with two terminals respectively
+run npm start in both terminal to start both front end and backend
